@@ -1,3 +1,8 @@
+#unordered-list {
+    font-size: 5em;
+    color: blue;
+    font-style: italic;
+}
 .green-items {
     
     color: green;
